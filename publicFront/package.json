@@ -1,0 +1,28 @@
+{
+  "name": "untitled",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "copy-to-clipboard": "^3.3.3",
+    "dayjs": "^1.11.13",
+    "element-plus": "^2.9.1",
+    "lodash": "^4.17.21",
+    "pinia": "^2.3.0",
+    "rimraf": "^6.0.1",
+    "vue": "^3.5.13",
+    "vue-class-component": "8.0.0-rc.1",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.0.1",
+    "vite-plugin-vue-devtools": "^7.6.5"
+  }
+}
